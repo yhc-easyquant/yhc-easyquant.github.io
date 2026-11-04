@@ -1,0 +1,7 @@
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://yhc-easyquant.github.io/sitemap.xml
